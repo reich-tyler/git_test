@@ -1,0 +1,7 @@
+index.html (and <head> basics)
+        - The file that contains the homeplage should ALWAYS be called index.html
+        - <head> is where you store important meta information, it is meant to give information to help ensure
+          the page renders correctly
+            * Should NOT put any element that displays content on the page
+            * <title> does not display ON the page, however it is displayed on the browser tab
+        - typing <! and then tab will auto format a boilerplate
