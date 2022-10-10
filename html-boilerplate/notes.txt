@@ -4,4 +4,6 @@ index.html (and <head> basics)
           the page renders correctly
             * Should NOT put any element that displays content on the page
             * <title> does not display ON the page, however it is displayed on the browser tab
+        - <body> is where all the information that will be displayed to users will go - the text, images, lists, links, and so on.
+            * will ALWAYS go below the <head> element 
         - typing <! and then tab will auto format a boilerplate
